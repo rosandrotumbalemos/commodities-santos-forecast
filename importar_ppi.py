@@ -8,8 +8,8 @@ from io import BytesIO
 DB_CONFIG = {
     'host': 'banco-de-dados-analise-commodities.cals6oigkokx.us-east-1.rds.amazonaws.com',
     'user': 'rosandro',
-    'password': 'tumbas10',
-    'database': 'tereos_analytics'
+    'password': '****',
+    'database': '****'
 }
 
 # Link oficial da ANP
